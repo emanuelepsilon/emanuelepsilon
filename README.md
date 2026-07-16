@@ -37,9 +37,3 @@ TensorFlow | scikit-learn | TFLite | LlamaIndex | LangGraph | MCP
 LLM APIs | RAG | embeddings | agents | model evaluation | edge AI
 SQLite | Git/GitHub | Linux | virtual environments | PlatformIO
 ```
-
-## What I Am Looking For
-
-AI/ML internship work where I can contribute to practical model development, data/evaluation workflows, LLM applications, AI agents, or edge AI systems.
-
-I am especially interested in teams that care about the full path from data to model behavior: sourcing, preprocessing, evaluation, deployment constraints, and real-world usefulness.
