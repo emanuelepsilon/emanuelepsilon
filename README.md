@@ -17,7 +17,7 @@ I build small, practical systems to understand how models, data, tooling, and de
 - [AI-ML](https://github.com/emanuelepsilon/AI-ML)  
   LLM projects, Gemini terminal agent, MCP server, RAG/LlamaIndex/LangGraph practice, TensorFlow/TFLite work, and edge optimization experiments.
 
-- [Orchestrator-Workflow](https://github.com/emanuelepsilon/Orchestrator-Workflow)  
+- [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW)  
   Agent orchestration workspace with planning state, role templates, and a local document-index/query tool.
 
 - [DATA-SQL](https://github.com/emanuelepsilon/DATA-SQL)  
