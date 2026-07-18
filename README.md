@@ -24,9 +24,6 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 
 ## Current Work
 
-**Acoustic Wave PDE Solver**  
-[ENGINEERING-COMPUTING](https://github.com/emanuelepsilon/ENGINEERING-COMPUTING/tree/main/acoustic-wave-pde-solver) includes a 2D acoustic wave equation simulation with heterogeneous media, absorbing boundaries, receiver traces, and discrete energy diagnostics.
-
 **Multi-Agent Orchestrator / Agent Army**  
 [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) implements a terminal-first manager/worker orchestration system for larger interdisciplinary AI projects. It supports Gemini, Ollama and OpenAI-compatible providers, spawns bounded role-specific workers, writes worker reports and synthesizes manager integration plans.
 
