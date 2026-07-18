@@ -31,7 +31,7 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) implements a terminal-first manager/worker orchestration system for larger interdisciplinary AI projects. It supports Gemini, Ollama and OpenAI-compatible providers, spawns bounded role-specific workers, writes worker reports and synthesizes manager integration plans.
 
 **Edge AI Optimization**  
-Bachelor's thesis at Cicor Nordic Engineering AB focused on optimizing neural networks for constrained hardware while measuring tradeoffs between latency, memory, energy and accuracy.
+[Bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineering AB focused on optimizing neural networks for constrained hardware while measuring tradeoffs between latency, memory, energy and accuracy.
 
 ## Featured Projects
 
