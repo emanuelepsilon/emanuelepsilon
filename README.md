@@ -8,21 +8,24 @@
 
 M.Sc. Engineering Physics student at Uppsala University, specializing in artificial intelligence, machine learning systems, scientific computing and edge AI.
 
-- Building a model-backed multi-agent orchestrator with manager/worker agents, provider abstraction, event logging and state files.
+- Building numerical PDE simulations, edge AI systems, and model-backed multi-agent orchestration tools.
 - Bachelor's thesis work on optimizing neural networks for constrained edge hardware.
 - Practical experience with RAG, LLM APIs, MCP, AI model evaluation, Python tooling and data workflows.
 
-## Agent-Built Project Demo
+## Numerical PDE Demo
 
-| 1. Local agent orchestration | 2. SQL ranking pipeline | 3. Finished dashboard |
+| 1. Acoustic wavefield | 2. Synthetic receivers | 3. Energy diagnostic |
 | --- | --- | --- |
-| ![Local Qwen manager and worker orchestration](assets/agent-dashboard-01-orchestrator.gif) | ![SQL ranking and analytics pipeline](assets/agent-dashboard-02-pipeline.gif) | ![Finished AI internship dashboard](assets/agent-dashboard-03-dashboard.gif) |
+| ![2D acoustic wave propagation](assets/acoustic-wavefield.gif) | ![Synthetic receiver traces](assets/acoustic-receivers.gif) | ![Discrete energy diagnostic](assets/acoustic-energy.gif) |
 
 | Coupled map dynamics | Neural cellular automaton | Vicsek model alignment |
 | --- | --- | --- |
 | ![Coupled logistic map phase portrait](assets/mks-phase-portrait.gif) | ![Excitable neural cellular automaton](assets/mks-neural-branching.gif) | ![Vicsek collective alignment model](assets/mks-vicsek-model.gif) |
 
 ## Current Work
+
+**Acoustic Wave PDE Solver**  
+[ENGINEERING-COMPUTING](https://github.com/emanuelepsilon/ENGINEERING-COMPUTING/tree/main/acoustic-wave-pde-solver) includes a 2D acoustic wave equation simulation with heterogeneous media, absorbing boundaries, receiver traces, and discrete energy diagnostics.
 
 **Multi-Agent Orchestrator / Agent Army**  
 [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) implements a terminal-first manager/worker orchestration system for larger interdisciplinary AI projects. It supports Gemini, Ollama and OpenAI-compatible providers, spawns bounded role-specific workers, writes worker reports and synthesizes manager integration plans.
