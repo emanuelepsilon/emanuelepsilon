@@ -12,11 +12,11 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 - Bachelor's thesis work on optimizing neural networks for constrained edge hardware.
 - Practical experience with RAG, LLM APIs, MCP, AI model evaluation, Python tooling and data workflows.
 
-## Project Demos
+## Agent-Built Project Demo
 
-| Multi-agent orchestration | SQL analytics | MCP tooling |
+| 1. Local agent orchestration | 2. SQL ranking pipeline | 3. Finished dashboard |
 | --- | --- | --- |
-| ![Manager-worker orchestration demo](assets/orchestrator-demo.gif) | ![SQL analytics query demo](assets/sql-demo.gif) | ![MCP server and terminal client demo](assets/mcp-demo.gif) |
+| ![Local Qwen manager and worker orchestration](assets/agent-dashboard-01-orchestrator.gif) | ![SQL ranking and analytics pipeline](assets/agent-dashboard-02-pipeline.gif) | ![Finished AI internship dashboard](assets/agent-dashboard-03-dashboard.gif) |
 
 | Coupled map dynamics | Neural cellular automaton | Vicsek model alignment |
 | --- | --- | --- |
