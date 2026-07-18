@@ -18,6 +18,10 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 | --- | --- | --- |
 | ![Manager-worker orchestration demo](assets/orchestrator-demo.gif) | ![SQL analytics query demo](assets/sql-demo.gif) | ![MCP server and terminal client demo](assets/mcp-demo.gif) |
 
+| Coupled map dynamics | Neural cellular automaton | Vicsek model alignment |
+| --- | --- | --- |
+| ![Coupled logistic map phase portrait](assets/mks-phase-portrait.gif) | ![Excitable neural cellular automaton](assets/mks-neural-branching.gif) | ![Vicsek collective alignment model](assets/mks-vicsek-model.gif) |
+
 ## Current Work
 
 **Multi-Agent Orchestrator / Agent Army**  
