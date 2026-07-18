@@ -3,7 +3,7 @@
 # Emanuel Melki
 
 ![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20LLM%20Systems-blue)
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20TensorFlow%20%7C%20RAG%20%7C%20Agents-gray)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20TensorFlow%20%7C%20RAG%20%7C%20Agents-7c3aed)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20internships-brightgreen)
 
 M.Sc. Engineering Physics student at Uppsala University, specializing in artificial intelligence, machine learning systems, scientific computing and edge AI.
