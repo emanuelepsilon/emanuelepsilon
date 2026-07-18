@@ -12,7 +12,7 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 - Bachelor's thesis work on optimizing neural networks for constrained edge hardware.
 - Practical experience with RAG, LLM APIs, MCP, AI model evaluation, Python tooling and data workflows.
 
-## Numerical PDE Demo
+## Recent Computational Coursework
 
 | Acoustic pressure surface | Velocity distribution surface |
 | --- | --- |
