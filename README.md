@@ -14,9 +14,9 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 
 ## Numerical PDE Demo
 
-| 1. Acoustic wavefield | 2. Synthetic receivers | 3. Energy diagnostic |
-| --- | --- | --- |
-| ![2D acoustic wave propagation](assets/acoustic-wavefield.gif) | ![Synthetic receiver traces](assets/acoustic-receivers.gif) | ![Discrete energy diagnostic](assets/acoustic-energy.gif) |
+| Acoustic pressure surface | Velocity distribution surface |
+| --- | --- |
+| <img src="assets/acoustic-pressure-3d.gif" alt="3D acoustic pressure surface" width="480"> | <img src="assets/acoustic-velocity-3d.gif" alt="3D acoustic velocity distribution surface" width="480"> |
 
 | Coupled map dynamics | Neural cellular automaton | Vicsek model alignment |
 | --- | --- | --- |
