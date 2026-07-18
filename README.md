@@ -12,6 +12,12 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 - Bachelor's thesis work on optimizing neural networks for constrained edge hardware.
 - Practical experience with RAG, LLM APIs, MCP, AI model evaluation, Python tooling and data workflows.
 
+## Project Demos
+
+| Multi-agent orchestration | SQL analytics | MCP tooling |
+| --- | --- | --- |
+| ![Manager-worker orchestration demo](assets/orchestrator-demo.gif) | ![SQL analytics query demo](assets/sql-demo.gif) | ![MCP server and terminal client demo](assets/mcp-demo.gif) |
+
 ## Current Work
 
 **Multi-Agent Orchestrator / Agent Army**  
