@@ -60,5 +60,5 @@ SQLite | Git/GitHub | Linux | virtual environments | PlatformIO
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/emanuel-melki-a657b02b0)  
+[LinkedIn](https://www.linkedin.com/in/emanuel-melki)  
 [GitHub](https://github.com/emanuelepsilon)
