@@ -1,44 +1,46 @@
-<!-- GitHub profile README for emanuelepsilon -->
-
 # Emanuel Melki
 
 ![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%7C%20LLM%20Systems-blue)
 ![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20TensorFlow%20%7C%20RAG%20%7C%20Agents-7c3aed)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20internships-brightgreen)
 
-M.Sc. Engineering Physics student at Uppsala University, specializing in artificial intelligence, machine learning systems, scientific computing and edge AI.
-
-- Building numerical PDE simulations, edge AI systems, and model-backed multi-agent orchestration tools.
-- Bachelor's thesis work on optimizing neural networks for constrained edge hardware.
-- Practical experience with RAG, LLM APIs, MCP, AI model evaluation, Python tooling and data workflows.
-
-## Recent Computational Coursework
-
-| Acoustic pressure surface | Velocity distribution surface |
-| --- | --- |
-| <img src="assets/acoustic-pressure-3d.gif" alt="3D acoustic pressure surface" width="480"> | <img src="assets/acoustic-velocity-3d.gif" alt="3D acoustic velocity distribution surface" width="480"> |
-
-| Coupled map dynamics | Neural cellular automaton | Vicsek model alignment |
-| --- | --- | --- |
-| ![Coupled logistic map phase portrait](assets/mks-phase-portrait.gif) | ![Excitable neural cellular automaton](assets/mks-neural-branching.gif) | ![Vicsek collective alignment model](assets/mks-vicsek-model.gif) |
+Engineering Physics student at Uppsala University. My work focuses on machine learning, LLM systems, scientific computing and edge AI.
 
 ## Current Work
 
-**Multi-Agent Orchestrator / Agent Army**  
-[ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) implements a terminal-first manager/worker orchestration system for larger interdisciplinary AI projects. It supports Gemini, Ollama and OpenAI-compatible providers, spawns bounded role-specific workers, writes worker reports and synthesizes manager integration plans.
+### Multi-Agent Orchestrator
 
-**Edge AI Optimization**  
-[Bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineering AB focused on optimizing neural networks for constrained hardware while measuring tradeoffs between latency, memory, energy and accuracy.
+[ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) uses a manager to divide larger projects between model-backed workers. It supports Gemini, Ollama and OpenAI-compatible providers. Runs are visible in the terminal and saved for review.
 
-## Featured Projects
+### Edge AI Optimization
 
-| Repository | Focus |
+My [bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineering AB examines neural networks on constrained hardware. It measures accuracy against latency, memory and energy use.
+
+### Scientific Machine Learning
+
+[WaveOperator Lab](https://github.com/emanuelepsilon/AI-ML/tree/main/wave-operator-lab) uses neural networks to reconstruct fine acoustic wave fields from coarse simulations. The numerical solver began as coursework. I added the machine learning pipeline and evaluation study.
+
+## WaveOperator Lab
+
+| Finite-difference reference | Neural reconstruction |
 | --- | --- |
-| [AI-ML](https://github.com/emanuelepsilon/AI-ML) | Applied machine learning, LLM workflows, RAG, agents, TensorFlow/TFLite and edge AI experiments |
-| [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) | Model-backed manager/worker orchestration for AI-assisted project planning |
-| [DATA-SQL](https://github.com/emanuelepsilon/DATA-SQL) | SQL practice, SQLite query tooling, structured data workflows and analytics exercises |
-| [ENGINEERING-COMPUTING](https://github.com/emanuelepsilon/ENGINEERING-COMPUTING) | Scientific computing, C, MATLAB, numerical methods, embedded systems and simulations |
-| [WEB-SOFTWARE](https://github.com/emanuelepsilon/WEB-SOFTWARE) | Web apps, API integrations, backend/frontend experiments and software tooling |
+| <img src="assets/wave-propagation.gif" alt="Finite-difference acoustic wave simulation" width="480"> | <img src="assets/neural-predictor.gif" alt="Neural reconstruction of the wave field" width="480"> |
+
+## Recent Coursework
+
+| Coupled map | Neural cellular automaton | Vicsek model |
+| --- | --- | --- |
+| ![Coupled logistic map](assets/mks-phase-portrait.gif) | ![Neural cellular automaton](assets/mks-neural-branching.gif) | ![Vicsek model](assets/mks-vicsek-model.gif) |
+
+## Repositories
+
+| Repository | Contents |
+| --- | --- |
+| [AI-ML](https://github.com/emanuelepsilon/AI-ML) | Machine learning, LLM applications, RAG and edge AI |
+| [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) | Manager and worker orchestration with hosted or local models |
+| [DATA-SQL](https://github.com/emanuelepsilon/DATA-SQL) | SQL and data analysis exercises |
+| [ENGINEERING-COMPUTING](https://github.com/emanuelepsilon/ENGINEERING-COMPUTING) | Numerical methods, simulations and embedded systems |
+| [WEB-SOFTWARE](https://github.com/emanuelepsilon/WEB-SOFTWARE) | Web applications and API integrations |
 
 ## Technical Stack
 
@@ -46,10 +48,10 @@ M.Sc. Engineering Physics student at Uppsala University, specializing in artific
 Python | MATLAB | C | SQL | Bash | PowerShell
 TensorFlow | scikit-learn | PyTorch | TFLite | NumPy | pandas | SciPy
 LLM APIs | RAG | embeddings | agents | MCP | LlamaIndex | LangGraph | smolagents
-SQLite | Git/GitHub | Linux | virtual environments | PlatformIO
+SQLite | Git | GitHub | Linux | virtual environments | PlatformIO
 ```
 
-## Certificates And Training
+## Certificates
 
 - Hugging Face Agents Course, Certificate of Excellence
 - Hugging Face MCP Course: Fundamentals of Model Context Protocol
@@ -57,5 +59,4 @@ SQLite | Git/GitHub | Linux | virtual environments | PlatformIO
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/emanuel-melki)  
-[GitHub](https://github.com/emanuelepsilon)
+[LinkedIn](https://www.linkedin.com/in/emanuel-melki)
