@@ -16,11 +16,7 @@ Engineering Physics student at Uppsala University. My work focuses on machine le
 
 My [bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineering AB examines neural networks on constrained hardware. It measures accuracy against latency, memory and energy use.
 
-### Scientific Machine Learning
-
-[WaveOperator Lab](https://github.com/emanuelepsilon/AI-ML/tree/main/wave-operator-lab) uses neural networks to reconstruct fine acoustic wave fields from coarse simulations. The numerical solver began as coursework. I added the machine learning pipeline and evaluation study.
-
-## WaveOperator Lab
+## Some of my work
 
 | Finite-difference reference | Neural reconstruction |
 | --- | --- |
