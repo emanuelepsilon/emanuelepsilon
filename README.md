@@ -20,11 +20,13 @@ My [bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineeri
 
 [WaveOperator Lab](https://github.com/emanuelepsilon/AI-ML/tree/main/wave-operator-lab) uses neural networks to reconstruct fine acoustic wave fields from coarse simulations. The numerical solver began as coursework. I added the machine learning pipeline and evaluation study.
 
-## Recent Coursework
+## WaveOperator Lab
 
-| Acoustic pressure | Velocity distribution |
+| Finite-difference reference | Neural reconstruction |
 | --- | --- |
-| <img src="assets/acoustic-pressure-3d.gif" alt="Acoustic pressure surface" width="480"> | <img src="assets/acoustic-velocity-3d.gif" alt="Velocity distribution surface" width="480"> |
+| <img src="assets/wave-propagation.gif" alt="Finite-difference acoustic wave simulation" width="480"> | <img src="assets/neural-predictor.gif" alt="Neural reconstruction of the wave field" width="480"> |
+
+## Recent Coursework
 
 | Coupled map | Neural cellular automaton | Vicsek model |
 | --- | --- | --- |
