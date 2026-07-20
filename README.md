@@ -8,9 +8,17 @@ Engineering Physics student at Uppsala University. My work focuses on machine le
 
 ## Current Work
 
-### Multi-Agent Orchestrator
+### Financial Operations AI
 
-[ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) uses a manager to divide larger projects between model-backed workers. It supports Gemini, Ollama and OpenAI-compatible providers. Runs are visible in the terminal and saved for review.
+[Financial Operations AI](https://github.com/emanuelepsilon/AI-ML/tree/main/financial-operations-ai) processes invoices and bank transactions for reconciliation and anomaly review. It combines trained models with deterministic checks, cited evidence and named human approval.
+
+<img src="assets/financial-operations-dashboard.png" alt="Financial operations AI review dashboard" width="900">
+
+The included evaluation covers 108 invoices and 110 transactions. It reaches 1.000 invoice category accuracy, 1.000 reconciliation precision and 1.000 reconciliation recall on the synthetic benchmark.
+
+### Agent Reliability Platform
+
+[ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) uses a manager to divide larger projects between model backed workers. It supports Gemini, Ollama and OpenAI compatible providers. The reliability suite records decisions, latency and recovery paths. Its repeatable benchmark tests normal runs and controlled failures across offline and local model providers.
 
 ### Edge AI Optimization
 
@@ -33,7 +41,7 @@ My [bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineeri
 | Repository | Contents |
 | --- | --- |
 | [AI-ML](https://github.com/emanuelepsilon/AI-ML) | Machine learning, LLM applications, RAG and edge AI |
-| [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) | Manager and worker orchestration with hosted or local models |
+| [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) | Agent orchestration, structured traces and reliability evaluation |
 | [DATA-SQL](https://github.com/emanuelepsilon/DATA-SQL) | SQL and data analysis exercises |
 | [ENGINEERING-COMPUTING](https://github.com/emanuelepsilon/ENGINEERING-COMPUTING) | Numerical methods, simulations and embedded systems |
 | [WEB-SOFTWARE](https://github.com/emanuelepsilon/WEB-SOFTWARE) | Web applications and API integrations |
