@@ -24,9 +24,9 @@ My [bachelor's thesis study](https://lnkd.in/dJkYZ-tw) at Cicor Nordic Engineeri
 
 ## Recent Coursework
 
-| Coupled map | Neural cellular automaton | Vicsek model |
+| Coupled map | Monte Carlo portfolio forecast | Vicsek model |
 | --- | --- | --- |
-| ![Coupled logistic map](assets/mks-phase-portrait.gif) | ![Neural cellular automaton](assets/mks-neural-branching.gif) | ![Vicsek model](assets/mks-vicsek-model.gif) |
+| ![Coupled logistic map](assets/mks-phase-portrait.gif) | ![Weighted Monte Carlo portfolio forecast](assets/monte-carlo-portfolio.gif) | ![Vicsek model](assets/mks-vicsek-model.gif) |
 
 ## Repositories
 
