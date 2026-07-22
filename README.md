@@ -8,14 +8,6 @@ Engineering Physics student at Uppsala University. My work focuses on machine le
 
 ## Current Work
 
-### Financial Operations AI
-
-[Financial Operations AI](https://github.com/emanuelepsilon/AI-ML/tree/main/financial-operations-ai) processes invoices and bank transactions for reconciliation and anomaly review. It combines trained models with deterministic checks, cited evidence and named human approval.
-
-<img src="assets/financial-operations-dashboard.png" alt="Financial operations AI review dashboard" width="900">
-
-The included evaluation covers 108 invoices and 110 transactions. It reaches 1.000 invoice category accuracy, 1.000 reconciliation precision and 1.000 reconciliation recall on the synthetic benchmark.
-
 ### Agent Reliability Platform
 
 [ORCHESTRATOR-WORKFLOW](https://github.com/emanuelepsilon/ORCHESTRATOR-WORKFLOW) uses a manager to divide larger projects between model backed workers. It supports Gemini, Ollama and OpenAI compatible providers. The reliability suite records decisions, latency and recovery paths. Its repeatable benchmark tests normal runs and controlled failures across offline and local model providers.
